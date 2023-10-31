@@ -21,7 +21,7 @@ img:hover {
     transition: .2s; 
 }
 
-@media (min-width: 300px) {
+@media (min-width: 310px) {
     section { 
         height: fit-content;
     }
