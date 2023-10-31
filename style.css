@@ -16,6 +16,11 @@ img {
     padding: 5px;
 }
 
+img:hover {
+    transform: scale(1.05);
+    transition: .2s; 
+}
+
 @media (min-width: 300px) {
     section { 
         height: fit-content;
