@@ -1,6 +1,7 @@
 body {
     display: flex;
     justify-content: center;
+    min-width: 300px;
 }
 
 section {
@@ -21,19 +22,19 @@ img {
     }
 }
 
-@media (min-width: 600px) {
+@media (min-width: 630px) {
     section { 
         height: 2000px;
       }
 }
 
-@media (min-width: 900px) {
+@media (min-width: 940px) {
     section { 
         height: 1500px;
       }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1250px) {
     section { 
         height: 1000px;
       }
